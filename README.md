@@ -1,14 +1,3 @@
-/*
-We got this working to some extent, there are still some issues.
-Dragging overlaps other elements, if anyone can find a fix PLEASE send a pull request.
-Possibly fixed by Jonathan Halterman#5542
-
-Please use the ScreenPosition.java file that is included in this repository.
-Thanks caterpillow#3310
-
-Enjoy smooth dragging for your PvP Client!
-*/
-
 package Client.Module;
 
 import java.awt.Color;
